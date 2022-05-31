@@ -1,9 +1,28 @@
 html {
-    background-color: #ccc;
+    background-color: ##ADCAD6;
 }
 
 body {
     font-size: 25px;
+}
+
+.tabela {
+    color: #fff;
+    width: 100%;
+    max-width: 70%;
+    text-align: center;
+    margin: auto;
+}
+
+.titulo {
+    text-align: center;
+    background-color: #BE92A2;
+    max-width: 70%;
+    margin: auto;
+}
+
+.subtitulo {
+    text-align: center;
 }
 
 .cor-cabecalho-moda {
