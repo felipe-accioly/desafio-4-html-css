@@ -1,0 +1,22 @@
+html {
+    background-color: #ccc;
+}
+
+body {
+    font-size: 25px;
+}
+
+.cor-cabecalho-moda {
+    background-color: #bb86fc;
+    color: white;
+}
+
+.cor-cabecalho-casa {
+    background-color: #00C4B4;
+    color: white;
+}
+
+.cor-valores {
+    background-color: #424250;
+    color: white;
+}
